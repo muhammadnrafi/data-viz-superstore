@@ -18,3 +18,7 @@ Which customers generate the most revenue for the superstore?
 What is the average shipping time for orders?
 What is the most common reason for returns?
 What are the most profitable product categories for the superstore?
+
+
+Link Tableau:  
+https://public.tableau.com/views/DataViz-Superstore_16769873505080/Overview?:language=en-US&:display_count=n&:origin=viz_share_link
